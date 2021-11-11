@@ -1,4 +1,5 @@
 
+-- Note: I found only the below 3 questions on the file
 
 --QUESTION 1
   SELECT PersonName , RiskLevel   FROM 
